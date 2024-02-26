@@ -8,6 +8,9 @@
   <a href="https://github.com/hpgundam">
     <img src="https://badges.strrl.dev/years/hpgundam?style=flat-square&color=red&logo=github">
   </a>
+ <a href="https://github.com/hpgundam?tab=repositories">
+    <img src="https://badges.strrl.dev/repos/hpgundam?style=flat-square&color=red&logo=github">
+  </a>
   <a href="https://github.com/hpgundam">
     <img src="https://badges.strrl.dev/commits/monthly/hpgundam?style=flat-square&color=red&logo=github">
   </a>
